@@ -1,4 +1,4 @@
-# teamproject1-601-v2
+# teamproject1-601
 
 * [Repository](/miniproject1-601/repo.md)
 * [Clone](/miniproject1-601/clone.md)
