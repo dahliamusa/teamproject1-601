@@ -1,5 +1,5 @@
 # teamproject1-601
 
-* [Repository](/miniproject1-601/repo.md)
-* [Clone](/miniproject1-601/clone.md)
-* [Fork](/miniproject1-601/fork.md)
+* [Repository](/repo.md)
+* [Clone](/clone.md)
+* [Fork](/fork.md)
