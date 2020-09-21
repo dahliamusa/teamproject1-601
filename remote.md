@@ -13,8 +13,10 @@ The command `git remote add` adds a new remote connection to the directory of th
 ![RemoteShow](/C://Users/Yunduo/Documents/Maggie/IS6011851/TeamProject1/gitremoteadd.png)
 
 ## Remote Remove
+The command `git remote rm` is used to remove a remote URL from the repository.
 
-
+![RemoteShow](/C://Users/Yunduo/Documents/Maggie/IS6011851/TeamProject1/gitremoteremove.png)
 Sources:
-* [Git Remote Show](https://www.git-tower.com/learn/git/commands/git-remote)
+* [Git Remote Show](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
 * [Git Remote Add](https://docs.github.com/en/github/using-git/adding-a-remote)
+* [Git Remote Remove](https://docs.github.com/en/github/using-git/removing-a-remote)
