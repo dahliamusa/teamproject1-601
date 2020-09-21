@@ -6,7 +6,7 @@
 * [Branch](/branch.md)
 * [Commit](/commit.md)
 * [Merge](/merge.md)
-* [Checkout] (/checkout.md)
+* [Checkout](/checkout.md)
 * [Push](/push.md)
 * [Pull](/pull.md)
 * [Remote Add/ Remove / Show](remote.md)
