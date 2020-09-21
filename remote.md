@@ -7,5 +7,10 @@ The command `git remote show` shows the URLs of the remote repositories when lis
 
 ![RemoteShow](/C://Users/Yunduo/Documents/Maggie/IS6011851/TeamProject1/gitremoteshow.png)
 
+## Remote Add
+The command `git remote add` adds a new remote connection to the directory of the repository.
+
+![RemoteShow](/C://Users/Yunduo/Documents/Maggie/IS6011851/TeamProject1/gitremoteadd.png)
 Sources:
-* [Git Remote](https://www.git-tower.com/learn/git/commands/git-remote)
+* [Git Remote Show](https://www.git-tower.com/learn/git/commands/git-remote)
+* [Git Remote Add](https://docs.github.com/en/github/using-git/adding-a-remote)
