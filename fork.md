@@ -7,9 +7,9 @@ and then clicking the Fork button.
 
 In the terminal, there is no explicit "fork" command. To fork in 
 the terminal, you need to get the URL of the repository you would 
-like to copy and then *clone* it. Then, use the command 'git remote 
-add upstream [url]'. To update your fork, you need to *pull* using 
-'git pull upstream master', and to *push* your changes, use 
+like to copy and then [clone](/clone.md) it. Then, use the command 'git remote 
+add upstream [url]'. To update your fork, you need to [pull](/pull.md) using 
+'git pull upstream master', and to [push](/push.md) your changes, use 
 'git push origin master'.
 
 Sources:
