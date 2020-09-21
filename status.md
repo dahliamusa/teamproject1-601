@@ -6,7 +6,7 @@ The **status** of the working tree can be shown by using the command `git status
 ![GitStatusBefore](/C://Users/Yunduo/Documents/Maggie/IS6011851/TeamProject1/gitstatusbefore.png)
 
 *After Commit*
-
+![GitStatusBefore](/C://Users/Yunduo/Documents/Maggie/IS6011851/TeamProject1/gitstatusafter.png)
 
 Sources:
 * [Git Status](https://www.atlassian.com/git/tutorials/inspecting-a-repository#:~:text=The%20git%20status%20command%20displays,regarding%20the%20committed%20project%20history.)
