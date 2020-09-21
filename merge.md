@@ -1,6 +1,6 @@
 # Merge
 
-**Merge** will join multiple *branches* or sequences of commits into a 
+**Merge** will join multiple [branches](/branch.md) or sequences of commits into a 
 single branch, creating one unified history. The target for the merge is 
 always the checked out branch. To merge, use the 'git merge' command 
 followed by the name of the branch to merge.
