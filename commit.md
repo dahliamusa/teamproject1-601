@@ -7,5 +7,7 @@ you are essentially saving and documenting your changes. The purpose of commits
 is to create a history of a *repository* so that the progress of a project can 
 be easily tracked and reviewed. Thus, it is important to commit frequently.
 
+To commit, use the 'git commit' command.
+
 Sources:
 * [Git Commit](https://github.com/git-guides/git-commit)
