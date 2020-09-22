@@ -4,13 +4,13 @@
 
 **Dahlia Musa**
 
-Added:
+**Added:**
 - File: CHANGELOG.md
 - Content to Change Log
 
 **Margaret Chen**
 
-Added:
+**Added:**
 - File: gitcommands.md
 - Links to all 12 term pages in Git Commands page
 - File: gitflow.md
@@ -18,7 +18,7 @@ Added:
 - More content to definitions in GitFlow page
 - Source links in GitFlow page
 
-Fixes:
+**Fixed:**
 - Reorganized Readme page to link to GitFlow and Git Commands pages
 - GitFlow heading Markdown syntax
 - Reordered links in Git Commands page
@@ -27,7 +27,7 @@ Fixes:
 
 **Dahlia Musa**
 
-Added:
+**Added:**
 _ Links to Merge, Checkout, Push, Pull, Remote, Status and Master Branch pages in Readme
 - More content to description and another source link in Repository page
 - More content to description in Clone page
@@ -55,7 +55,7 @@ _ Links to Merge, Checkout, Push, Pull, Remote, Status and Master Branch pages i
 - Images: git_merge_1.png and git_merge_2.png to images folder
 - Image in Merge page
 
-Fixes:
+**Fixed:**
 - Link to Checkout page Markdown syntax
 - Updated description of fork in Fork page
 - Re-uploaded image in Branch page
@@ -71,7 +71,7 @@ Fixes:
 
 **Margaret Chen**
 
-Added:
+**Added:**
 - File: push.md
 - Title, description and source link in Push page
 - Image in Push page
@@ -98,7 +98,7 @@ Added:
 - Link to Merge page in Pull page
 - Link to Repository page in Merge Branch page
 
-Fixes:
+**Fixed:**
 - Re-uploaded image in Checkout page
 - Re-uploaded image in Checkout page
 - Re-uploaded image in Status page
@@ -117,7 +117,7 @@ Initial release.
 
 **Dahlia Musa**
 
-Added:
+**Added:**
 - Readme
 - License
 - Files: repo.md, clone.md, fork.md
@@ -134,10 +134,10 @@ Added:
 
 **Margaret Chen**
 
-Added:
+**Added:**
 - File: checkout.md
 - Title, description and source link in Checkout page
 - Image in Checkout page
 
-Fixes:
+**Fixed:**
 - Updated description in Checkout page
