@@ -19,5 +19,7 @@ that is central in this project.
 To create a branch, use the 'git branch' command followed by the name you would like 
 to give the branch.
 
+![git_branch](https://github.com/dahliamusa/teamproject1-601/blob/master/images/git_branch.png?raw=true)
+
 Sources:
 * [Branch in Git](https://www.toolsqa.com/git/git-alias/)
