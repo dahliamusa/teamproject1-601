@@ -17,11 +17,17 @@
 - Title and description in GitFlow page
 - More content to definitions in GitFlow page
 - Source links in GitFlow page
+- File: source.md
+- Link Source page added to ReadMe file.
+
 
 **Fixed:**
 - Reorganized Readme page to link to GitFlow and Git Commands pages
 - GitFlow heading Markdown syntax
 - Reordered links in Git Commands page
+- Fixed image alignment with text in Status page.
+- Fixed bullet point for source in Pull page.
+
 
 ## v1.0.1 - Sep. 21, 2020
 
