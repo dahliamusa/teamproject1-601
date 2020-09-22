@@ -1,4 +1,4 @@
-#GitFlow
+# GitFlow
 
 GitFlow is a workflow design based on a branching model in which parallel development can occur easily because it is designed around the project release. It is ideal for managing larger projects with a schedule release cycle in which specific roles are assigned to different branches: `master`, `develop`, `feature`, `release`, and `hotfix`. 
 
