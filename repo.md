@@ -17,8 +17,7 @@ the `git init` command, and your directory will become a local repository.
 ![git_init](https://github.com/dahliamusa/teamproject1-601/blob/2bd56ff9de253122638e8c31c8eae0a8dd77267c/images/git_int.png?raw=true)
 
 If you are going to start working on an existing project, however, you likely 
-won't be creating a new respository locally. Instead, you would create a local 
-
+won't be creating a new repository locally. Instead, you would create a local 
 copy of a remote repository, and to do this, you will need to clone the remote 
 repository. For more information on cloning a repository, check out the 
 [clone](/clone.md) page.
