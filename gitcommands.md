@@ -1,14 +1,14 @@
 ## Git Commands
 
 * [Repository](/repo.md)
+* [Master Branch](/masterbranch.md)
+* [Branch](/branch.md)
 * [Clone](/clone.md)
 * [Fork](/fork.md)
-* [Branch](/branch.md)
+* [Remote Add/ Remove / Show](remote.md)
+* [Checkout](/checkout.md)
 * [Commit](/commit.md)
 * [Merge](/merge.md)
-* [Checkout](/checkout.md)
 * [Push](/push.md)
 * [Pull](/pull.md)
-* [Remote Add/ Remove / Show](remote.md)
 * [Status](/status.md)
-* [Master Branch](/masterbranch.md)
