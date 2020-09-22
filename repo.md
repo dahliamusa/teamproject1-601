@@ -6,7 +6,7 @@ have local and remote repositories. A local repository is saved to your
 local machine, and it is where you would do your individual work. A remote 
 repository is the common repository containing the combined work of all 
 contributors. When you have any completed code segments in your local repository, 
-you would send your work to the remote repository, or *push* it, 
+you would send your work to the remote repository, or [push](/push.md) it, 
 so that it can be added to the remote repository. Services like GitHub 
 are usually used to manage remote repositories.
 
