@@ -7,8 +7,10 @@ beginning of your interaction with a project. After the remote repository
 is cloned, you can work on the project locally and then [push](/push.md) 
 your changes back to the remote repository.
 
-To clone a repository, you need to get the URL of the remote repository 
-and enter the command 'git commit [url]'.
+To clone a repository, get the URL of the repository from GitHub
+and enter the command `git clone` followed by the URL.
+
+![git_clone](https://github.com/dahliamusa/teamproject1-601/blob/master/images/git_clone.png?raw=true)
 
 Sources:
 * [Git Clone](https://github.com/git-guides/git-clone)
