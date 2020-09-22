@@ -11,11 +11,12 @@ so that it can be added to the remote repository. Services like GitHub
 are usually used to manage remote repositories.
 
 To create a new local repository, you need to have an existing directory which 
-you would like to turn into a project repository. Use the command 'git init <directory>', 
-and your directory will become a local repository.
+you would like to turn into a project repository. First cd into the directory then 
+the `git init` command, and your directory will become a local repository.
 
 If you are going to start working on an existing project, however, you likely 
 won't be creating a new respository locally. Instead, you would create a local 
+
 copy of a remote repository, and to do this, you will need to clone the remote 
 repository. For more information on cloning a repository, check out the 
 [clone](/clone.md) page.
