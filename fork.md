@@ -1,16 +1,17 @@
 # Fork
 
 A **fork** is a copy of a repository that functions as an 
-independent project separate from the original. A fork can 
-be done within GitHub by clicking on project repository name, 
-and then clicking the Fork button.
+independent project separate from the original.
 
-In the terminal, there is no explicit "fork" command. To fork in 
-the terminal, you need to get the URL of the repository you would 
-like to copy and then [clone](/clone.md) it. Then, use the command 'git remote 
-add upstream [url]'. To update your fork, you need to [pull](/pull.md) using 
-'git pull upstream master', and to [push](/push.md) your changes, use 
-'git push origin master'.
+There is no explicit fork command in the terminal, but you 
+can easily fork a repository in GitHub by opening the repository 
+of the project you would like to fork and clicking the "Fork" button.
+
+![git_fork_1](https://github.com/dahliamusa/teamproject1-601/blob/master/images/git_fork_1.png?raw=true)
+
+You will then see the forked repository in your own account.
+
+![git_fork_2](https://github.com/dahliamusa/teamproject1-601/blob/master/images/git_fork_2.png?raw=true)
 
 Sources:
 * [What is Git Fork and How to Fork a Repository in GitHub?](https://www.toolsqa.com/git/git-fork/#:~:text=Git%20Fork%20is%20a%20simple%20process%20in%20GitHub,the%20same%20are%20covered%20in%20the%20next%20section.)
