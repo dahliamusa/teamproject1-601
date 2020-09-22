@@ -16,7 +16,7 @@ that is central in this project.
 
 ![Image of branching](https://www.f30.me/wp-content/uploads/2013/05/git_branching.png)
 
-To create a branch, use the 'git branch' command followed by the name you would like 
+To create a branch, use the `git branch` command followed by the name you would like 
 to give the branch.
 
 ![git_branch](https://github.com/dahliamusa/teamproject1-601/blob/master/images/git_branch.png?raw=true)
