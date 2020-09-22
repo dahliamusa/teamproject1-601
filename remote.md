@@ -5,17 +5,17 @@ The **remote** command allows users to manage connections to remote repositories
 ## Remote Show
 The command `git remote show` shows the URLs of the remote repositories when listing your current remote connection. It can also be shorthanded by the command `git remote -v`.
 
-![RemoteShow](/C://Users/Yunduo/Documents/Maggie/IS6011851/TeamProject1/gitremoteshow.png)
+![RemoteShow](./images/gitremoteshow.png)
 
 ## Remote Add
 The command `git remote add` adds a new remote connection to the directory of the repository.
 
-![RemoteShow](/C://Users/Yunduo/Documents/Maggie/IS6011851/TeamProject1/gitremoteadd.png)
+![RemoteShow](./images/gitremoteadd.png)
 
 ## Remote Remove
 The command `git remote rm` is used to remove a remote URL from the repository.
 
-![RemoteShow](/C://Users/Yunduo/Documents/Maggie/IS6011851/TeamProject1/gitremoteremove.png)
+![RemoteShow](./images/gitremoteremove.png)
 Sources:
 * [Git Remote Show](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
 * [Git Remote Add](https://docs.github.com/en/github/using-git/adding-a-remote)
