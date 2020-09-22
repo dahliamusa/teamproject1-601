@@ -10,7 +10,7 @@ you would send your work to the remote repository, or [push](/push.md) it,
 so that it can be added to the remote repository. Services like GitHub 
 are usually used to manage remote repositories.
 
-The 'git innit' command is used to create a local respository. If you are going 
+The 'git init' command is used to create a local respository. If you are going 
 to start working on an existing project, however, you likely won't be creating a 
 new respository locally. Instead, you would create a local copy of a remote repository, 
 and to do this, you will need to use the 'git clone' command. For more information 
