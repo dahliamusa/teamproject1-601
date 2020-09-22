@@ -10,11 +10,14 @@ you would send your work to the remote repository, or *push* it,
 so that it can be added to the remote repository. Services like GitHub 
 are usually used to manage remote repositories.
 
-The 'git innit' command is used to create a local respository. If you are going 
-to start working on an existing project, however, you likely won't be creating a 
-new respository locally. Instead, you would create a local copy of a remote repository, 
-and to do this, you will need to use the 'git clone' command. For more information 
-on cloning a repository, check out the *clone* page.
+To create a new local repository, you need to have an existing directory which 
+you would like to turn into a project repository. Use the command 'git init <directory>', 
+and your directory will become a local repository.
+
+If you are going to start working on an existing project, however, you likely 
+won't be creating a new respository locally. Instead, you would create a local 
+copy of a remote repository, and to do this, you will need to use the 'git clone' 
+command. For more information on cloning a repository, check out the *clone* page.
 
 Sources:
 * [How to Create and Manage Your First Git Repository](https://www.bitdegree.org/learn/what-is-a-git-repository#:~:text=Git%20Repository%3A%20Summary%201%20Git%20system%20stores%20and,is%20a%20copy%20of%20a%20remote%20Git%20repo.)
