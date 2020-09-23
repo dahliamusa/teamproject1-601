@@ -7,6 +7,8 @@
 **Added:**
 - File: CHANGELOG.md
 - Content to Change Log
+- Folder: gitcommands
+- Moved the 12 term definition pages to the gitcommands folder
 
 **Fixed:**
 - Updated image in Repository page
