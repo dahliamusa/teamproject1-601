@@ -19,6 +19,7 @@
 - Source links in GitFlow page
 - File: source.md
 - Link Source page added to ReadMe file.
+- Reworded content of Pull page.
 
 
 **Fixed:**
@@ -27,6 +28,7 @@
 - Reordered links in Git Commands page
 - Fixed image alignment with text in Status page.
 - Fixed bullet point for source in Pull page.
+- Fixed header of Pull page.
 
 
 ## v1.0.1 - Sep. 21, 2020
