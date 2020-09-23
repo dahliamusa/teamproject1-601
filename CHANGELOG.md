@@ -8,6 +8,17 @@
 - File: CHANGELOG.md
 - Content to Change Log
 
+**Fixed:**
+- Updated image in Repository page
+- Updated image in Clone page
+- Updated image in Branch page
+- Updated description in Commit page
+- Updated image in Commit page
+- Updated description in Merge page
+- Updated image in Merge page
+- Deleted from images folder: git_branch.png, git_commit.png, git_init_1.png, 
+git_init_2.png, git_merge_1.png, git_merge_2.png, clone.png
+
 **Margaret Chen**
 
 **Added:**
