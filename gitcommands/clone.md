@@ -10,7 +10,7 @@ your changes back to the remote repository.
 To clone a repository, get the URL of the repository from GitHub
 and enter the command `git clone` followed by the URL.
 
-![git_clone](https://cdn.tutsplus.com/net/uploads/legacy/476_git/clone.jpg)
+![git_clone](https://opensource.com/sites/default/files/styles/panopoly_image_original/public/u128651/git_guide12.png?itok=E7ZG9t-8)
 
 Sources:
 * [Git Clone](https://github.com/git-guides/git-clone)
