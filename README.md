@@ -8,5 +8,5 @@
 
 * [GitFlow](/gitflow.md)
 * [Git Commands](/gitcommands/gitcommands.md)
-* [Additional Sources](/gitcommands/source.md)
+* [Additional Sources](/source.md)
 * [Change Log](/CHANGELOG.md)
