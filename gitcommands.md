@@ -5,7 +5,7 @@
 * [Branch](/gitcommands/branch.md)
 * [Clone](/gitcommands/clone.md)
 * [Fork](/gitcommands/fork.md)
-* [Remote Add/ Remove / Show](remote.md)
+* [Remote Add/ Remove / Show](gitcommands/remote.md)
 * [Checkout](/gitcommands/checkout.md)
 * [Commit](/gitcommands/commit.md)
 * [Merge](/gitcommands/merge.md)
