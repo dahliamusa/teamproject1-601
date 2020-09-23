@@ -7,9 +7,11 @@ you are essentially saving and documenting your changes. The purpose of commits
 is to create a history of a [repository](/gitcommands/repo.md) so that the progress of a project can 
 be easily tracked and reviewed. Thus, it is important to commit frequently.
 
-To commit, use the `git commit` command.
+To commit, use the `git commit` command. It is common to use the `-m` option, 
+which allows you to add a message to the commit. After `-m`, include your message 
+in quotation marks.
 
-![git_commit](https://github.com/dahliamusa/teamproject1-601/blob/master/images/git_commit.png?raw=true)
+![git_commit](https://www.mfitzp.com/images/method/1472/GitBranchName_1.png)
 
 Sources:
 * [Git Commit](https://github.com/git-guides/git-commit)
