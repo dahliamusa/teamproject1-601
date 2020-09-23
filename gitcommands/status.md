@@ -5,12 +5,12 @@ The **status** of the working tree can be shown by using the command `git status
 *Before Commit*
 
 
-![GitStatusBefore](./images/gitstatusbefore.png)
+![GitStatusBefore](../images/gitstatusbefore.png)
 
 *After Commit*
 
 
-![GitStatusBefore](./images/gitstatusafter.png)
+![GitStatusBefore](../images/gitstatusafter.png)
 
 Sources:
 * [Git Status](https://www.atlassian.com/git/tutorials/inspecting-a-repository#:~:text=The%20git%20status%20command%20displays,regarding%20the%20committed%20project%20history.)

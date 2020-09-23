@@ -1,8 +1,8 @@
 # Merge
 
-**Merge** will join multiple [branches](/branch.md) or sequences of 
+**Merge** will join multiple [branches](/gitcommands/branch.md) or sequences of 
 commits into a single branch, creating one unified history. The 
-target for the merge is always the [checked out](/checkout.md) branch.
+target for the merge is always the [checked out](/gitcommands/checkout.md) branch.
 
 To merge, first make sure you have checked out the right branch.
 
